@@ -1,6 +1,6 @@
 # D280 Interactive World Map
 
-You can find the vanilla version of this application at #https://nickgustomize.com
+You can find the vanilla version of this application at https://nickgustomize.com
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
 
